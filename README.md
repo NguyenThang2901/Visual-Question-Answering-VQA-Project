@@ -68,18 +68,5 @@ os.environ['GOOGLE_API_KEY'] = 'YOUR_API_KEY_HERE'
 
 ---
 
-## Live Demo
-
-Curious to see it in action? Click the link below to interact with the VQA model right in your browser:
-
-<p align="center">
-  <a href="https://huggingface.co/spaces/Tin113/vqa_project">
-    <img src="https://img.shields.io/badge/HuggingFace-%F0%9F%A4%97-yellow">
-  </a>
-</p>
-
-Simply upload an image of an animal, ask a question, and receive an answer — all without any setup or installation!
-
-
 This project was developed for the **Deep Learning course** at **Ton Duc Thang University**.
 
